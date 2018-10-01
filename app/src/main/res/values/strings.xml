@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HW_chayapa</string>
+    <string name="textview">TextView</string>
+    <string name="buttom">ตกลง</string>
+    <string name="todo">TODO</string>
+    <string name="butt">ตกลง</string>
+    <string name="age">.....age.....</string>
+    <string name="bf">.....BF.....</string>
+    <string name="name">.....name.....</string>
+    <string name="namee">Name :</string>
+    <string name="best_friend">Best Friend :</string>
+    <string name="agee">Age :</string>
+    <string name="home_work_ii">Home Work II</string>
+</resources>
